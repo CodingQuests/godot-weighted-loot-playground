@@ -1,0 +1,19 @@
+; CodingQuests Weighted Loot Playground — Godot 4.7.2 stable
+config_version=5
+
+[application]
+config/name="Weighted Loot Playground - CodingQuests"
+run/main_scene="res://demo/loot_playground.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+
+[display]
+window/size/viewport_width=1440
+window/size/viewport_height=960
+window/size/window_width_override=1440
+window/size/window_height_override=960
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.02, 0.03, 0.04, 1)

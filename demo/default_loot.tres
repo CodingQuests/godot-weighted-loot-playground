@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="CQWeightedLootTable" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://components/weighted_loot_table.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+item_ids = PackedStringArray("Coin", "Potion", "Gem", "Relic")
+weights = PackedFloat64Array(60, 25, 10, 5)

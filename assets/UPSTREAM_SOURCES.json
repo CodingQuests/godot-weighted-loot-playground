@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-11",
+  "creator": "Kenney",
+  "license": "CC0 1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "packs": {
+    "tiny-dungeon": "1.0",
+    "pixel-platformer": "1.2"
+  },
+  "files": [
+    {
+      "file": "kenney/tiny-dungeon.png",
+      "pack": "tiny-dungeon",
+      "source_file": "Tilemap/tilemap_packed.png",
+      "source_page": "https://kenney.nl/assets/tiny-dungeon",
+      "modifications": "None; original PNG bytes copied unchanged",
+      "sha256": "d24e60a41e4ac7a745c0304dfde121143688557f40215f23221c29cfe683825f"
+    },
+    {
+      "file": "kenney/potion.png",
+      "pack": "tiny-dungeon",
+      "source_file": "Tiles/tile_0115.png",
+      "source_page": "https://kenney.nl/assets/tiny-dungeon",
+      "modifications": "None; original PNG bytes copied unchanged",
+      "sha256": "ad27340925ae7e936788c22cbd0f7d1922ef5bdd21377f916f1be9af6be4312d"
+    },
+    {
+      "file": "kenney/coin.png",
+      "pack": "pixel-platformer",
+      "source_file": "Tiles/tile_0151.png",
+      "source_page": "https://kenney.nl/assets/pixel-platformer",
+      "modifications": "None; original PNG bytes copied unchanged",
+      "sha256": "c958abb4618f9b670006b3baff4cc96937762e4d022065c4fde8656d54e033bd"
+    },
+    {
+      "file": "kenney/gem.png",
+      "pack": "pixel-platformer",
+      "source_file": "Tiles/tile_0067.png",
+      "source_page": "https://kenney.nl/assets/pixel-platformer",
+      "modifications": "None; original PNG bytes copied unchanged",
+      "sha256": "e929762325e714534c90384334e24e74f5a89f29569ace1dc39d5c8f90ae8f21"
+    },
+    {
+      "file": "kenney/relic.png",
+      "pack": "pixel-platformer",
+      "source_file": "Tiles/tile_0027.png",
+      "source_page": "https://kenney.nl/assets/pixel-platformer",
+      "modifications": "None; original PNG bytes copied unchanged",
+      "sha256": "177e381d7ad9c0e0d6db3b38004d992c040ae500c891f4f06b6d6c3c727c1320"
+    }
+  ]
+}
